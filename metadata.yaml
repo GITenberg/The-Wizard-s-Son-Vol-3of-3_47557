@@ -27,5 +27,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Wizard's Son, Vol. 3(of 3)
 url: http://www.gutenberg.org/ebooks/47557
